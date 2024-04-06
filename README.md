@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Antonio Reyes</h1>
 <h3 align="center">An IT Specialist from Atlanta, GA</h3>
 
-- 🌱 I’m currently learning:
-  * **Python & Bash Scripting**
-  * **Linux**
-  * **Configuration Management**
-  * **Cloud Computing**
+- 🌱 **I’m currently learning:**
+  * Python & Bash Scripting
+  * Linux
+  * Configuration Management
+  * Cloud Computing
 
 - 📫 How to reach me **areyesgfx@gmail.com**
 
