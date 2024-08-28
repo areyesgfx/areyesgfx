@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Antonio Reyes</h1>
-<h3 align="center">An IT Specialist from Atlanta, GA</h3>
+<h3 align="center">A DevOps Engineer from Atlanta, GA</h3>
 
 - 🌱 **I’m currently learning:**
-  * Python & Bash Scripting
+  * AWS & GCP
   * Linux
-  * Configuration Management
-  * Cloud Computing
+  * Infrastructure as Code (IaC)
+  * Scripting
 
 - 📫 How to reach me **areyesgfx@gmail.com**
 
