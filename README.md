@@ -2,9 +2,9 @@
 <h3 align="center">A DevOps Engineer from Atlanta, GA</h3>
 
 - 🌱 **I’m currently learning:**
-  * AWS
+  * Advanced Cloud Networking
   * Golang
-  * How to be a Terraform God
+  * Terraform at Scale
 
 - 📫 How to reach me **areyesgfx@gmail.com**
 
